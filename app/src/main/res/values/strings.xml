@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ParkingAndroid</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="titol_activity_slots">Llista Slots</string>
+    <string name="descripcio_planta">Llista floors</string>
+    <string name="titul_mapa">Mapa</string>
+    <string name="veure_mapa">Entrar Mapa</string>
+    <string name="veure_floors">Entrar Floors</string>
+
+</resources>

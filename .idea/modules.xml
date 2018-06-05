@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ParkingASM.iml" filepath="$PROJECT_DIR$/ParkingASM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commManager/commManager.iml" filepath="$PROJECT_DIR$/commManager/commManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parkingprovider/parkingprovider.iml" filepath="$PROJECT_DIR$/parkingprovider/parkingprovider.iml" />
+    </modules>
+  </component>
+</project>
